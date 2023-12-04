@@ -6,7 +6,7 @@ How to use the code to perform visual differential perocessing:
 2. Extracting video into single frames.
 3. Convert the image into PWL voltages in simualtion using the code/CropPic.m PicCompression.m pwlgeneration_batch.m in sequence.
 4. Check that the circuit code/circuit/visual627.asc is operational.
-5. Run the code/simulation.py file.
+5. Run the code/LTspice_simulation.py file.
 6. Fianlly, the processed results can be extracted using the code/readtest.m file.
 
 Please feel free to contact me if there are any questions. My Email: shengb.wang@gmail.com
